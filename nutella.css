@@ -1,7 +1,7 @@
 body {
     color:black;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: 16pt;
+    font-family: fantasy;
+    font-size: 20pt;
     
 }
 h3{
@@ -10,12 +10,22 @@ h3{
 p{
     color: black;
 }
-/* #contact {
+   #Product Information {
     border: 2px dotted black;
-} */
-.black{
-    color: black;
-}
+} 
 .bold{
     font-weight: bold;
+}
+div
+{
+    border: 10px solid black;
+    display: inline-block;
+    width: 378px;
+    min-height: 100px;
+}
+.nutella{
+    widows: 200px;
+  
+   
+
 }
